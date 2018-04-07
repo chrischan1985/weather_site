@@ -1,0 +1,19 @@
+<form id='subscribe_form' action="{% url 'subscribe' %}" method="post" >
+    {% csrf_token %}
+    <p>
+        Email: <input type="text" name="email" id="email" size="45" />
+    </p>
+    <p>
+        Location:
+    {% if all_locations %}
+        <select name="location">
+            {% for location in all_locations %}
+                <option value = "{{ location.name }}" >{{ location.name }}</option>
+            {% endfor %}
+        </select>
+    {% endif %}
+    </p>
+    <p>
+        <input type='submit' name='Submit' value='Subscribe' />
+    </p>
+</form>

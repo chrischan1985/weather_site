@@ -1,0 +1,5 @@
+{
+  "user_email" : "",
+  "user_password" : "",
+  "smtp_server" : "smtp.gmail.com:587"
+}

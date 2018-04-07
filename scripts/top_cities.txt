@@ -1,0 +1,100 @@
+New York City, NY
+Los Angeles, CA
+Chicago, IL
+Houston, TX
+Philadelphia, PA
+Phoenix, AZ
+San Antonio, TX
+San Diego, CA
+Dallas, TX
+San Jose, CA
+Austin, TX
+Jacksonville, FL
+San Francisco, CA
+Indianapolis, IN
+Columbus, OH
+Fort Worth, TX
+Charlotte, NC
+Seattle, WA
+Denver, CO
+El Paso, TX
+Detroit, MI
+Washington, DC
+Boston, MA
+Memphis, TN
+Nashville, TN
+Portland, OR
+Oklahoma City, OK
+Las Vegas, NV
+Baltimore, MD
+Louisville, KY
+Milwaukee, WI
+Albuquerque, NM
+Tucson, AZ
+Fresno, CA
+Sacramento, CA
+Kansas City, MO
+Long Beach, CA
+Mesa, AZ
+Atlanta, GA
+Colorado Springs, CO
+Virginia Beach, VA
+Raleigh, NC
+Omaha, NE
+Miami, FL
+Oakland, CA
+Minneapolis, MN
+Tulsa, OK
+Wichita, KS
+New Orleans, LA
+Arlington, TX
+Cleveland, OH
+Bakersfield, CA
+Tampa, FL
+Aurora, CO
+Honolulu, HI
+Anaheim, CA
+Santa Ana, CA
+Corpus Christi, TX
+Riverside, CA
+St. Louis, MO
+Lexington, KY
+Stockton, CA
+Pittsburgh, PA
+St. Paul, MN
+Anchorage, AK
+Cincinnati, OH
+Henderson, NV
+Greensboro, NC
+Plano, TX
+Newark, NJ
+Toledo, OH
+Lincoln, NE
+Orlando, FL
+Chula Vista, CA
+Jersey City, NJ
+Chandler, AZ
+Fort Wayne, IN
+Buffalo, NY
+Durham, NC
+St. Petersburg, FL
+Irvine, CA
+Laredo, TX
+Lubbock, TX
+Madison, WI
+Gilbert, AZ
+Norfolk, VA
+Reno, NV
+Winston-Salem, NC
+Glendale, AZ
+Hialeah, FL
+Garland, TX
+Scottsdale, AZ
+Irving, TX
+Chesapeake, VA
+North Las Vegas, NV
+Fremont, CA
+Baton Rouge, LA
+Richmond, VA
+Boise City, ID
+San Bernardino, CA
